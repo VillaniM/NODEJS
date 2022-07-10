@@ -1,0 +1,110 @@
+2022-07-03T16:22:14.821Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:22:15.275Z [final] info GET /autor/id
+2022-07-03T16:22:16.064Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":"100","estoque":5,"autorId":7}
+2022-07-03T16:23:51.016Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:23:51.433Z [final] info GET /autor/id
+2022-07-03T16:23:52.173Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":"100","estoque":5,"autorId":8}
+2022-07-03T16:26:19.008Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:26:19.392Z [final] info GET /autor/id
+2022-07-03T16:26:20.122Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":"100","estoque":5,"autorId":9}
+2022-07-03T16:31:15.374Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:31:15.818Z [final] info GET /autor/id
+2022-07-03T16:31:16.529Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":"100","estoque":5,"autorId":10}
+2022-07-03T16:34:01.506Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:34:01.923Z [final] info GET /autor/id
+2022-07-03T16:34:02.669Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":"100","estoque":5,"autorId":11}
+2022-07-03T16:36:24.192Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:36:24.580Z [final] info GET /autor/id
+2022-07-03T16:36:25.302Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":"100","estoque":5,"autorId":12}
+2022-07-03T16:39:00.763Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:39:01.159Z [final] info GET /autor/id
+2022-07-03T16:39:01.910Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":"100","estoque":5,"autorId":13}
+2022-07-03T16:41:55.696Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:41:56.111Z [final] info GET /autor/id
+2022-07-03T16:41:56.861Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":"100","estoque":5,"autorId":14}
+2022-07-03T16:44:11.884Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:44:12.260Z [final] info GET /autor/id
+2022-07-03T16:44:13.013Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":15}
+2022-07-03T16:44:14.005Z [final] info GET /livro/id
+2022-07-03T16:44:14.356Z [final] info POST / Cliente - {"nome":"Cliente de teste","email":"clientedeteste@gmail.com","senha":"123456","telefone":"33214241","endereco":"rua 10"}
+2022-07-03T16:51:19.218Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:51:19.635Z [final] info GET /autor/id
+2022-07-03T16:51:20.373Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":16}
+2022-07-03T16:51:21.228Z [final] info GET /livro/id
+2022-07-03T16:51:21.580Z [final] info POST / Cliente - {"nome":"Cliente de teste","email":"clientedeteste@gmail.com","senha":"123456","telefone":"33214241","endereco":"rua 10"}
+2022-07-03T16:57:01.830Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:57:02.226Z [final] info GET /autor/id
+2022-07-03T16:57:02.949Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":17}
+2022-07-03T16:57:04.018Z [final] info GET /livro/id
+2022-07-03T16:57:04.396Z [final] info POST / Cliente - {"nome":"Cliente de teste","email":"clientedeteste@gmail.com","senha":"123456","telefone":"33214241","endereco":"rua 10"}
+2022-07-03T16:58:50.570Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T16:58:51.002Z [final] info GET /autor/id
+2022-07-03T16:58:51.763Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":18}
+2022-07-03T16:58:52.919Z [final] info GET /livro/id
+2022-07-03T16:58:52.935Z [final] error POST  - notNull Violation: clientes.senha cannot be null
+2022-07-03T17:01:05.225Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T17:01:05.616Z [final] info GET /autor/id
+2022-07-03T17:01:06.386Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":19}
+2022-07-03T17:01:07.439Z [final] info GET /livro/id
+2022-07-03T17:01:07.808Z [final] info POST / Cliente - {"nome":"Cliente de teste","email":"clientedeteste@gmail.com","senha":"123456","telefone":"33214241","endereco":"rua 10"}
+2022-07-03T17:04:01.870Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T17:04:02.276Z [final] info GET /autor/id
+2022-07-03T17:04:02.999Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":20}
+2022-07-03T17:04:04.958Z [final] info GET /livro/id
+2022-07-03T17:04:05.326Z [final] info POST / Cliente - {"nome":"Cliente de teste","email":"clientedeteste@gmail.com","senha":"123456","telefone":"33214241","endereco":"rua 10"}
+2022-07-03T17:06:11.250Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T17:06:11.633Z [final] info GET /autor/id
+2022-07-03T17:06:12.367Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":21}
+2022-07-03T17:06:13.526Z [final] info GET /livro/id
+2022-07-03T17:06:13.876Z [final] info POST / Cliente - {"nome":"Cliente de teste","email":"clientedeteste@gmail.com","senha":"123456","telefone":"33214241","endereco":"rua 10"}
+2022-07-03T17:06:14.464Z [final] error GET  - invalid input syntax for integer: "undefined"
+2022-07-03T17:09:55.520Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T17:09:55.922Z [final] info GET /autor/id
+2022-07-03T17:09:56.711Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":22}
+2022-07-03T17:09:57.669Z [final] info GET /livro/id
+2022-07-03T17:09:58.019Z [final] info POST / Cliente - {"nome":"Cliente de teste","email":"clientedeteste@gmail.com","senha":"123456","telefone":"33214241","endereco":"rua 10"}
+2022-07-03T17:09:58.394Z [final] info GET /cliente/id
+2022-07-03T17:09:59.106Z [final] info GET /livro/id
+2022-07-03T17:10:01.200Z [final] info POST / Venda - {"valor":"100","data":"2000-01-01","clienteId":8,"livroId":21}
+2022-07-03T17:11:44.154Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T17:11:44.577Z [final] info GET /autor/id
+2022-07-03T17:11:45.309Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":23}
+2022-07-03T17:11:46.521Z [final] info GET /livro/id
+2022-07-03T17:11:46.885Z [final] info POST / Cliente - {"nome":"Cliente de teste","email":"clientedeteste@gmail.com","senha":"123456","telefone":"33214241","endereco":"rua 10"}
+2022-07-03T17:11:47.244Z [final] info GET /cliente/id
+2022-07-03T17:11:47.967Z [final] info GET /livro/id
+2022-07-03T17:11:50.063Z [final] info POST / Venda - {"valor":100,"data":"2000-01-01T00:00:00.000Z","clienteId":9,"livroId":22}
+2022-07-03T17:11:50.435Z [final] info GET /venda/id
+2022-07-03T18:32:22.005Z [final] info GET /livro
+2022-07-03T18:33:00.978Z [final] info GET /livro
+2022-07-03T18:34:24.401Z [final] info POST /livro/info - undefined
+2022-07-03T18:34:36.442Z [final] info POST /livro/info - undefined
+2022-07-03T18:34:48.485Z [final] info POST /livro/info - undefined
+2022-07-03T18:35:02.556Z [final] info POST /livro/info - undefined
+2022-07-03T18:35:16.789Z [final] info POST /livro/info - undefined
+2022-07-03T18:35:35.779Z [final] info POST /livro/info - undefined
+2022-07-03T18:36:01.268Z [final] info GET /livro/info
+2022-07-03T18:45:17.997Z [final] info GET /venda
+2022-07-03T18:47:21.279Z [final] info POST / Venda - {"valor":60,"data":"01/01/2000","clienteId":2,"livroId":2}
+2022-07-03T18:47:50.732Z [final] info GET /venda
+2022-07-03T18:48:44.934Z [final] info GET /venda
+2022-07-03T18:49:37.145Z [final] info GET /venda
+2022-07-03T18:51:08.852Z [final] info POST / Venda - {"valor":130,"data":"01/01/2000","clienteId":2,"livroId":4}
+2022-07-03T18:51:33.643Z [final] info GET /venda
+2022-07-03T18:52:11.333Z [final] info GET /cliente/id
+2022-07-03T18:52:46.580Z [final] info GET /livro/id
+2022-07-03T18:53:33.912Z [final] info GET /livro
+2022-07-03T18:59:15.486Z [final] error GET  - Autor is not defined
+2022-07-03T18:59:18.011Z [final] error GET  - Autor is not defined
+2022-07-03T19:01:56.477Z [final] info GET /livro
+2022-07-03T19:02:34.677Z [final] info GET /livro
+2022-07-03T19:13:03.114Z [final] info GET /autor
+2022-07-03T19:23:16.010Z [final] info POST / Autor - {"nome":"Autor de Teste","email":"autordeteste@gmail.com","telefone":"33214242"}
+2022-07-03T19:23:16.391Z [final] info GET /autor/id
+2022-07-03T19:23:17.149Z [final] info POST / Livro - {"nome":"Livro de Teste","valor":100,"estoque":5,"autorId":4}
+2022-07-03T19:23:18.067Z [final] info GET /livro/id
+2022-07-03T19:23:18.418Z [final] info POST / Cliente - {"nome":"Cliente de teste","email":"clientedeteste@gmail.com","senha":"123456","telefone":"33214241","endereco":"rua 10"}
+2022-07-03T19:23:18.777Z [final] info GET /cliente/id
+2022-07-03T19:23:19.516Z [final] info GET /livro/id
+2022-07-03T19:23:21.665Z [final] info POST / Venda - {"valor":100,"data":"2000-01-01T00:00:00.000Z","clienteId":6,"livroId":7}
+2022-07-03T19:23:22.056Z [final] info GET /venda/id
